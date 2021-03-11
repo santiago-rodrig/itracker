@@ -7,6 +7,6 @@ Go package for fetching a list of issues from the Github API.
 ## Setup
 
 ```sh
-go install github.com/santiago-rodrig/itracker
+go get github.com/santiago-rodrig/itracker
 ```
 
